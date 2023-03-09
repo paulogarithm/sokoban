@@ -1,0 +1,10 @@
+left
+right
+right
+left
+up
+down
+down
+up
+> CHECK
+a
